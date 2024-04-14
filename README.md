@@ -23,8 +23,7 @@ Converter.
 images and videos using Generative Adversarial Networks (GAN) and these networks
 are developing better every day
 
-## Demo of the Project
-Link : https://www.youtube.com/watch?v=wy8mVnBZ6pY&ab_channel=BalajiKartheek
+
 
 ## Impact of DeepFake Videos
 - DeepFakes can be used to create fake news, celebrity unusual videos, politician
@@ -42,8 +41,6 @@ We intend to,
 -  Dploy a feature in the social media apps that can detect and give a warning to
 the content provider who is willing to do viral by uploading deepFaked images or
 videos.
-
-![image](https://user-images.githubusercontent.com/77656115/206965843-6ac74168-3e31-43d6-9bbf-3e3d25e17522.png)
 
 ### Goal:
 To Crate a deep learning model that is capable of recognizing deepfake images. A
@@ -150,11 +147,5 @@ FAKE. We Experimented with EfficientNet and inception net for the feature extrac
 GRU is used to make the classification. We have obtained a maximum Test Accuracy of ~85% 
 using this approach. Our model has high precision for FAKE videos which is obtained by giving 
 more FAKE videos during the training of the Model.
-
-
-## Team :
-1.  [Balaji Kartheek](https://github.com/Balaji-Kartheek)
-2.  [Aaron Dsouza](https://github.com/DsouzaAaron)
-
 
 
